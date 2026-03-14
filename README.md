@@ -16,3 +16,10 @@ Projeto Web Independente
 
 ## Contato
 LinkedIn: linkedin.com/in/irisbarney-iy
+
+![Static Badge](https://img.shields.io/badge/HTML-orange)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/Java-%23FF7700)
+
+
