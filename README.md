@@ -10,8 +10,8 @@ JavaScript
 Git e GitHub
 
 ## Projetos em destaque
-E-commerce Web
-Sistema de Biblioteca em Java
+E-commerce Web | 
+Sistema de Biblioteca em Java | 
 Projeto Web Independente
 
 ## Contato
